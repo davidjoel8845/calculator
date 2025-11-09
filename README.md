@@ -1,5 +1,15 @@
 # getbulder_lesson
 
++++++++++++++++++++++++++
+I was just going through getBulder in Flutter getx statemanagement 
+and then i decided to change the project to a mini calculator app,
+
++++++++++++++What did you do:
+   i did nothing mush; was just a basic calculator,
++++++++++++++++++ recommend others:
+    if you are very good with getX am open to correction and contribution
+   
+
 A new Flutter project.
 
 ## Getting Started
